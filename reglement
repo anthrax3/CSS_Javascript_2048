@@ -1,0 +1,8 @@
+* départ avec 2 case (2 ou 4)
+* atteindre le le nombre 2048 dans une case
+* combiner 2 case par colision qui on le meme nombres puis additionners (puissance de 2)
+* les couleurs de la case change lorsque sont nombre augmente
+* deplacement horizontale ou vertical de toutes les cases
+* l'aire est de 4/4 case (16case)
+* fin du jeu quand toutes les cases sont rempli
+* le score augmente lors d'une fusion de case
